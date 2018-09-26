@@ -1,0 +1,9 @@
+vendors:
+  etherscan: PP8WJZ7WXR2RAHRRRN66E3BGRVGH4N2XE1
+  chainz: ab82c89f218f
+mysql:
+  user: root
+  password: 1
+  database: smartjex
+  host: tcp(127.0.0.1:3306)
+
